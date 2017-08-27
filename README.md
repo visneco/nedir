@@ -1,0 +1,2 @@
+# nedir
+Ansiklopedik bilgi kaynağı
